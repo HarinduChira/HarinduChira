@@ -32,10 +32,12 @@
   ![](https://github-profile-trophy.vercel.app/?username=HarinduChira&theme=onedark&no-frame=false&no-bg=true&margin-w=4)
 </p>
 
-### 🔝 Top Contributed Repo
+## 🔝 Top Contributed Repo
+</br>
 ![](https://github-contributor-stats.vercel.app/api?username=HarinduChira&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
 ## 🌐 Socials:
+</br>
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/harindu.chiranjaya) 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/harindu_chira) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/harindu-basnayake/) 
