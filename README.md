@@ -34,10 +34,12 @@
 
 ## 🔝 Top Contributed Repo
 </br>
+
 ![](https://github-contributor-stats.vercel.app/api?username=HarinduChira&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
 ## 🌐 Socials:
 </br>
+
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/harindu.chiranjaya) 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/harindu_chira) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/harindu-basnayake/) 
@@ -46,6 +48,7 @@
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@HarinduBasnayake) 
 
 ## 💰 You can help me by Donating
+</br>
 <ul style="list-style-type: none; margin: 0;">
   <li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.buymeacoffee.com/harinduchira"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a></li>
 </ul>
