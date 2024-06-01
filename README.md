@@ -55,10 +55,10 @@
 <a href="https://github.com/HarinduChira" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarinduChira&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=f97316&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 ## 🏆 GitHub Trophies
-<p align="center">
+<div align="center">
   
   ![](https://github-profile-trophy.vercel.app/?username=HarinduChira&theme=onedark&no-frame=false&no-bg=true&margin-w=4)
-</p>
+</div>
 
 ## 🔝 Top Contributed Repo
 </br>
