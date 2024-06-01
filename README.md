@@ -2,7 +2,10 @@
 <p align="center" ><img  src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 100px></p>
 <h1 align="center">Hi 👋, I'm Harindu Basnayake</h1>
 <h3 align="center">Passionate CS Student | Exploring the Boundless World of Technology</h3>
-<p align="center">[![](https://visitcount.itsvg.in/api?id=HarinduChira&icon=0&color=1)](https://visitcount.itsvg.in)</p>
+<p align="center">
+  
+  [![](https://visitcount.itsvg.in/api?id=HarinduChira&icon=0&color=1)](https://visitcount.itsvg.in)
+</p>
 
 # 💫 About Me:
 🌱 I’m currently a learner who is reading for BSc (Hons) in Computer Science<br><br>🧑‍🎓 I’m an Undergraduate at the University Of Kelaniya Sri Lanka<br><br>👨‍💻 All of my projects are available at ....<br><br>📄 Know about me experiences .....<br><br>📫 How to reach me harinduchira@gmail.com<br><br>⚡ Connect with me in LinkedIn https://www.linkedin.com/in/harindu-basnayake/<br><br>
