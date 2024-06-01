@@ -6,7 +6,7 @@
   
   [![](https://visitcount.itsvg.in/api?id=HarinduChira&icon=0&color=1)](https://visitcount.itsvg.in)
 
-  [![committers.top badge](https://user-badge.committers.top/sri_lanka/sharada-marasinha.svg)](https://user-badge.committers.top/sri_lanka/sharada-marasinha)
+  [![committers.top badge](https://user-badge.committers.top/sri_lanka/HarinduChira.svg)](https://user-badge.committers.top/sri_lanka/HarinduChira)
 </p>
 
 # 💫 About Me:
