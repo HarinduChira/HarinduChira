@@ -7,6 +7,7 @@
   [![](https://visitcount.itsvg.in/api?id=HarinduChira&icon=0&color=1)](https://visitcount.itsvg.in)
 
   [![committers.top badge](https://user-badge.committers.top/sri_lanka/HarinduChira.svg)](https://user-badge.committers.top/sri_lanka/HarinduChira)
+  
 </p>
 
 # 💫 About Me:
@@ -22,7 +23,8 @@
 
 ## 🏆 GitHub Trophies
 <p align="center">
-![](https://github-profile-trophy.vercel.app/?username=HarinduChira&theme=onedark&no-frame=false&no-bg=true&margin-w=4)
+
+  ![](https://github-profile-trophy.vercel.app/?username=HarinduChira&theme=onedark&no-frame=false&no-bg=true&margin-w=4)
 </p>
 
 ### 🔝 Top Contributed Repo
